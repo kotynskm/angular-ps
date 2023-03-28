@@ -1,0 +1,12 @@
+[
+  {
+    "productId": 2,
+    "productName": "Hammer",
+    "productCode": "GDN-0023",
+    "releaseDate": "March 18, 2021",
+    " description": "Claw steel hammer",
+    " price": 8.9,
+    "starRating": 4.8,
+    "imageUrl": "assets/images/hammer.png"
+  }
+]
